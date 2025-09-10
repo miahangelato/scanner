@@ -14,23 +14,23 @@ import requests
 
 # Import the working scanner implementation
 from scanner_real import FingerprintScanner, dpfpdd, DPFPDD_SUCCESS, capture_fingerprint_image
-from config import HOST, PORT, DEBUG, CORS_ORIGINS, CORS_ALLOW_ALL, LOG_LEVEL
+from config import HOST, PORT, DEBUG, CORS_ORIGINS, CORS_ALLOW_ALL
+import os
 from PIL import Image
 import numpy as np
 import io
 
 # Backend API configuration
 # Configuration - Switch between local and production
-BACKEND_BASE_URL = "https://be2-production.up.railway.app"  # Production
-# BACKEND_BASE_URL = "http://127.0.0.1:8000"  # Local testing
-# BACKEND_BASE_URL = "https://be2-production.up.railway.app"  # Railway backend URL (commented for local testing)
+BACKEND_BASE_URL = os.getenv("KIOSK_SCANNER_BACKEND_BASE_URL")
+# Railway backend URL (commented for local testing)
 
 # Set up logging
 logging.basicConfig(
-    level=getattr(logging, LOG_LEVEL),
+    level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
-logger = logging.getLogger(__name__)
+
 
 # Create Flask app
 app = Flask(__name__)

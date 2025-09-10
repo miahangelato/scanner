@@ -124,7 +124,7 @@ kiosk-scanner-app/
 ```
 
 ## 🔧 Configuration
-
+  
 Edit `config.py` to customize:
 
 ```python

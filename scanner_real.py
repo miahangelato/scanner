@@ -29,14 +29,17 @@ try:
     import numpy as np
     PIL_AVAILABLE = True
 except ImportError:
-    print("\nWarning: Pillow library not found. Install with 'pip install Pillow' to view/save images as PNG.")
     PIL_AVAILABLE = False
 
 # --- Configuration ---
 DP_SDK_ROOT = r"C:\Program Files\DigitalPersona\U.are.U SDK"
+DP_BIN_ROOT = r"C:\Program Files\DigitalPersona\Bin"
 
-# Common subdirectories where DLLs might be found
+# Common subdirectories where DLLs might be found - prioritize x64 architecture
 SDK_DLL_DIRS = [
+    os.path.join(DP_SDK_ROOT, r"Windows\Lib\x64"),  # Check x64 first for 64-bit compatibility
+    DP_BIN_ROOT,  # Check DigitalPersona Bin
+    os.path.join(DP_SDK_ROOT, r"Windows\Lib\win32"),  # 32-bit as fallback (but will likely fail)
     os.path.join(DP_SDK_ROOT, r"Bin"),
     os.path.join(DP_SDK_ROOT, r"Lib"),
     os.path.join(DP_SDK_ROOT, r"Redist"),
@@ -45,12 +48,18 @@ SDK_DLL_DIRS = [
 
 # Function to find DLL in common paths
 def find_dll(dll_name):
+    logger.info(f"Searching for {dll_name}...")
     for sdk_dir in SDK_DLL_DIRS:
         dll_path = os.path.join(sdk_dir, dll_name)
+        logger.debug(f"Checking: {dll_path}")
         if os.path.exists(dll_path):
-            print(f"Found {dll_name} at: {dll_path}")
+            logger.info(f"Found {dll_name} at: {dll_path}")
             return dll_path
-    print(f"Warning: {dll_name} not found in configured SDK paths. Attempting to load by name only (relies on system PATH).")
+    
+    logger.warning(f"Warning: {dll_name} not found in configured SDK paths:")
+    for sdk_dir in SDK_DLL_DIRS:
+        logger.warning(f"  - {sdk_dir}")
+    logger.warning("Attempting to load by name only (relies on system PATH).")
     return dll_name
 
 DPFPDD_DLL_PATH = find_dll("dpfpdd.dll")
@@ -59,11 +68,27 @@ DPFJ_DLL_PATH = find_dll("dpfj.dll")
 # --- ctypes Definitions for dpfpdd.dll ---
 
 try:
+    logger.info(f"Loading dpfpdd.dll from: {DPFPDD_DLL_PATH}")
     dpfpdd = ctypes.WinDLL(DPFPDD_DLL_PATH)
+    logger.info("Successfully loaded dpfpdd.dll")
 except OSError as e:
-    print(f"Failed to load {DPFPDD_DLL_PATH}: {e}")
-    print("Ensure the SDK is installed and its DLLs are accessible or in system PATH.")
-    print(f"Attempted DPFPDD_DLL_PATH: {DPFPDD_DLL_PATH}")
+    logger.error(f"Failed to load {DPFPDD_DLL_PATH}: {e}")
+    logger.error("Ensure the DigitalPersona SDK is properly installed.")
+    logger.error(f"Attempted DPFPDD_DLL_PATH: {DPFPDD_DLL_PATH}")
+    
+    # Try to list what's actually in the directories
+    logger.error("Contents of SDK directories:")
+    for sdk_dir in SDK_DLL_DIRS:
+        if os.path.exists(sdk_dir):
+            try:
+                files = os.listdir(sdk_dir)
+                dll_files = [f for f in files if f.endswith('.dll')]
+                logger.error(f"  {sdk_dir}: {dll_files}")
+            except Exception as list_err:
+                logger.error(f"  {sdk_dir}: Error listing - {list_err}")
+        else:
+            logger.error(f"  {sdk_dir}: Directory does not exist")
+    
     sys.exit(1)
 
 # Define common types
@@ -247,7 +272,6 @@ def check_status(status, func_name):
             DPFPDD_E_PAD_FAILURE: "Failure to perform spoof detection",
         }
         msg = error_messages.get(status, "Unknown error code")
-        print(f"Error in {func_name}: Status = {hex(status)} ({msg})")
         return False
 
 def list_devices():
@@ -279,10 +303,8 @@ def list_devices():
                 })
             return devices
         elif status == DPFPDD_E_MORE_DATA:
-            print(f"More devices found ({count.value}) than allocated space ({MAX_DEVICES}). Resizing buffer.")
             MAX_DEVICES = count.value
             if MAX_DEVICES == 0:
-                print("Warning: SDK returned 0 devices after DPFPDD_E_MORE_DATA. Exiting device query loop.")
                 return []
             continue
         else:
@@ -306,25 +328,32 @@ def capture_fingerprint_image(device_name=None):
         if device_name is None:
             devices = list_devices()
             if not devices:
-                print("No DigitalPersona fingerprint devices found.")
                 return None, None, None
-            
-            print("Found devices:")
+
             for i, d in enumerate(devices):
                 print(f"  {i+1}. Name: '{d['name']}', Product: '{d['product_name']}', Serial: '{d['serial_num']}'")
 
-            # Select U.are.U device
-            uareu_device = next(
-                (d for d in devices if "U.are.U" in d["product_name"]),
-                None
-            )
+            # Select DigitalPersona-compatible device (vendor ID 0x05ba)
+            compatible_device = None
+            for d in devices:
+                # Check if device has DigitalPersona vendor ID (0x05ba)
+                # This includes U.are.U and other DigitalPersona-compatible devices like Biokey
+                if any(keyword in d["product_name"].lower() for keyword in ["u.are.u", "digitalPersona", "biokey"]) or \
+                   d.get("vendor_id") == 0x05ba:
+                    compatible_device = d
+                    logger.info(f"Found DigitalPersona-compatible device: {d['product_name']}")
+                    break
             
-            if not uareu_device:
-                print("No U.are.U device found!")
+            if not compatible_device:
+                logger.error("No DigitalPersona-compatible device found!")
+                logger.error("Available devices:")
+                for i, d in enumerate(devices):
+                    logger.error(f"  {i+1}. Name: '{d['name']}', Product: '{d['product_name']}', Serial: '{d['serial_num']}'")
+                logger.error("Please connect a DigitalPersona-compatible scanner (U.are.U, Biokey, etc.)")
                 return None, None, None
 
-            device_name = uareu_device["name"]
-            print(f"Using U.are.U device: '{device_name}'")
+            device_name = compatible_device["name"]
+            logger.info(f"Using DigitalPersona device: '{device_name}' - {compatible_device['product_name']}")
 
         status = dpfpdd.dpfpdd_open(device_name.encode('utf-8'), ctypes.byref(dev))
         if not check_status(status, "dpfpdd_open"):
@@ -569,22 +598,33 @@ class FingerprintScanner:
             if status != DPFPDD_SUCCESS:
                 raise Exception(f"Failed to get device info: Status = 0x{status:x}")
             
-            # Find U.are.U device
-            uareu_device = None
+            # Find DigitalPersona-compatible device (including U.are.U and Biokey)
+            compatible_device = None
             for dev in devices:
-                logger.debug(f"Found device: {dev.descr.product_name.decode('utf-8', errors='ignore')}")
-                if b"U.are.U" in dev.descr.product_name:
-                    uareu_device = dev
+                device_name = dev.descr.product_name.decode('utf-8', errors='ignore')
+                vendor_id = dev.id.vendor_id
+                logger.debug(f"Found device: {device_name} (Vendor ID: 0x{vendor_id:04x})")
+                
+                # Accept DigitalPersona devices (vendor ID 0x05ba) including U.are.U and Biokey
+                if vendor_id == 0x05ba or "U.are.U" in device_name or "Biokey" in device_name:
+                    compatible_device = dev
+                    logger.info(f"Found DigitalPersona-compatible device: {device_name}")
                     break
             
-            if not uareu_device:
-                raise Exception("U.are.U scanner not found")
+            if not compatible_device:
+                logger.error("Available devices:")
+                for dev in devices:
+                    device_name = dev.descr.product_name.decode('utf-8', errors='ignore')
+                    vendor_id = dev.id.vendor_id
+                    logger.error(f"  - {device_name} (Vendor ID: 0x{vendor_id:04x})")
+                raise Exception("No DigitalPersona-compatible scanner found! Please connect a U.are.U or compatible DigitalPersona scanner.")
             
-            logger.debug(f"Using device: {uareu_device.descr.product_name.decode('utf-8', errors='ignore')}")
+            device_name = compatible_device.descr.product_name.decode('utf-8', errors='ignore')
+            logger.debug(f"Using DigitalPersona device: {device_name}")
             
             # Open the device
             device = DPFPDD_DEV()
-            status = dpfpdd.dpfpdd_open(uareu_device.name, ctypes.byref(device))
+            status = dpfpdd.dpfpdd_open(compatible_device.name, ctypes.byref(device))
             
             if status != DPFPDD_SUCCESS:
                 raise Exception(f"Failed to open device: Status = 0x{status:x}")
@@ -765,36 +805,47 @@ class FingerprintScanner:
 # Test function
 def test_scanner():
     try:
-        print("\nTesting fingerprint scanner...")
+        logger.info("Testing fingerprint scanner...")
         devices = list_devices()
         
-        # Find U.are.U device
-        uareu_device = next(
-            (d for d in devices if "U.are.U" in d["product_name"]),
-            None
-        )
-        
-        if not uareu_device:
-            print("Error: U.are.U scanner not found!")
+        if not devices:
+            logger.error("Error: No fingerprint scanner found!")
             return
             
-        print(f"Found U.are.U device: {uareu_device['product_name']}")
+        # Find DigitalPersona-compatible device (including U.are.U and Biokey)
+        compatible_device = None
+        for d in devices:
+            # Check for DigitalPersona vendor ID or known compatible devices
+            if d.get("vendor_id") == 0x05ba or \
+               any(keyword in d["product_name"].lower() for keyword in ["u.are.u", "biokey", "digitalpersona"]):
+                compatible_device = d
+                break
+        
+        if not compatible_device:
+            logger.error("Error: No DigitalPersona-compatible scanner found!")
+            logger.error("Available devices:")
+            for i, d in enumerate(devices):
+                logger.error(f"  {i+1}. Product: '{d['product_name']}', Vendor ID: 0x{d.get('vendor_id', 0):04x}")
+            logger.error("Please connect a DigitalPersona-compatible scanner (U.are.U, Biokey, etc.)")
+            return
+            
+        logger.info(f"Found DigitalPersona-compatible device: {compatible_device['product_name']}")
         
         # Capture using specific device
-        image_bytes, img_info, quality = capture_fingerprint_image(uareu_device["name"])
+        image_bytes, img_info, quality = capture_fingerprint_image(compatible_device["name"])
         
         if image_bytes:
-            print(f"Captured {len(image_bytes)} bytes of pixel data.")
+            logger.info(f"Captured {len(image_bytes)} bytes of pixel data.")
             if img_info:
                 png_filename = f"fingerprint_{img_info['width']}x{img_info['height']}.png"
                 with open(png_filename, "wb") as f:
                     f.write(image_bytes)
-                print(f"Image saved as {png_filename}")
+                logger.info(f"Image saved as {png_filename}")
         else:
-            print("Capture failed!")
+            logger.error("Capture failed!")
             
     except Exception as e:
-        print(f"Test failed: {str(e)}")
+        log_error_with_traceback(e, "Test failed")
 
 if __name__ == "__main__":
     test_scanner()
