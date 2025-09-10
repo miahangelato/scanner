@@ -1,0 +1,1328 @@
+2025-09-05 16:04:36,013 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:04:36,013 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:04:36,502 [DEBUG] [scanner_real] Query status: 0x5ba000d, Number of devices: 2
+2025-09-05 16:04:36,502 [INFO] [scanner_real] Found 2 fingerprint device(s)
+2025-09-05 16:04:36,505 [DEBUG] [scanner_real] Found device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:04:36,506 [DEBUG] [scanner_real] Using device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:04:36,523 [INFO] [scanner_real] Scanner initialized successfully
+2025-09-05 16:04:36,524 [INFO] [__main__] Scanner initialized successfully
+2025-09-05 16:04:36,601 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:04:36,602 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:06:29,408 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:06:29,408 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:06:29,414 [DEBUG] [scanner_real] Query status: 0x5ba000d, Number of devices: 2
+2025-09-05 16:06:29,414 [INFO] [scanner_real] Found 2 fingerprint device(s)
+2025-09-05 16:06:29,419 [DEBUG] [scanner_real] Found device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:06:29,419 [DEBUG] [scanner_real] Using device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:06:29,437 [INFO] [scanner_real] Scanner initialized successfully
+2025-09-05 16:06:29,437 [INFO] [__main__] Scanner initialized successfully
+2025-09-05 16:06:29,492 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:06:29,493 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:07:55,371 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:07:55,371 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:07:55,376 [DEBUG] [scanner_real] Query status: 0x5ba000d, Number of devices: 2
+2025-09-05 16:07:55,378 [INFO] [scanner_real] Found 2 fingerprint device(s)
+2025-09-05 16:07:55,382 [DEBUG] [scanner_real] Found device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:07:55,382 [DEBUG] [scanner_real] Using device: U.are.U® 4500 Fingerprint Reader (WBF)
+2025-09-05 16:07:55,400 [INFO] [scanner_real] Scanner initialized successfully
+2025-09-05 16:07:55,401 [INFO] [__main__] Scanner initialized successfully
+2025-09-05 16:07:55,472 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:07:55,472 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:18:50,003 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:18:50,003 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:18:50,058 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:18:50,732 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:18:50,736 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:19:43,034 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:19:43,104 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:19:43,712 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:19:43,717 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:19:59,110 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:19:59,192 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:19:59,789 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:19:59,789 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:19:59,790 [DEBUG] [scanner_real] Query status: 0x5ba000b, Number of devices: 0
+2025-09-05 16:19:59,790 [ERROR] [scanner_real] Failed to query devices: Status = 0x5ba000b
+2025-09-05 16:19:59,791 [ERROR] [scanner_real] Scanner initialization failed: Failed to query devices: Status = 0x5ba000b (Unspecified failure - check device permissions)
+2025-09-05 16:19:59,820 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:19:59,825 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:20:19,692 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:20:19,693 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:20:19,693 [DEBUG] [scanner_real] Query status: 0x5ba000b, Number of devices: 0
+2025-09-05 16:20:19,694 [ERROR] [scanner_real] Failed to query devices: Status = 0x5ba000b
+2025-09-05 16:20:19,694 [ERROR] [scanner_real] Scanner initialization failed: Failed to query devices: Status = 0x5ba000b (Unspecified failure - check device permissions)
+2025-09-05 16:20:19,741 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:20:19,741 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:20:19,744 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:20:20,377 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:20:20,377 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:20:20,377 [DEBUG] [scanner_real] Query status: 0x5ba000b, Number of devices: 0
+2025-09-05 16:20:20,378 [ERROR] [scanner_real] Failed to query devices: Status = 0x5ba000b
+2025-09-05 16:20:20,378 [ERROR] [scanner_real] Scanner initialization failed: Failed to query devices: Status = 0x5ba000b (Unspecified failure - check device permissions)
+2025-09-05 16:20:20,406 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:20:20,411 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:21:09,231 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:21:09,231 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:21:09,232 [DEBUG] [scanner_real] Query status: 0x5ba000b, Number of devices: 0
+2025-09-05 16:21:09,232 [ERROR] [scanner_real] Failed to query devices: Status = 0x5ba000b
+2025-09-05 16:21:09,232 [ERROR] [scanner_real] Scanner initialization failed: Failed to query devices: Status = 0x5ba000b (Unspecified failure - check device permissions)
+2025-09-05 16:21:09,282 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:21:09,282 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:21:09,284 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:21:09,913 [DEBUG] [scanner_real] Starting fingerprint reader initialization...
+2025-09-05 16:21:09,913 [DEBUG] [scanner_real] Querying for connected devices...
+2025-09-05 16:21:09,914 [DEBUG] [scanner_real] Query status: 0x5ba000b, Number of devices: 0
+2025-09-05 16:21:09,914 [ERROR] [scanner_real] Failed to query devices: Status = 0x5ba000b
+2025-09-05 16:21:09,914 [ERROR] [scanner_real] Scanner initialization failed: Failed to query devices: Status = 0x5ba000b (Unspecified failure - check device permissions)
+2025-09-05 16:21:09,945 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:21:09,949 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:22:45,594 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:22:45,594 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:22:45,597 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:22:46,214 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:22:46,218 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:23:19,482 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:23:19] "GET /api/health HTTP/1.1" 200 -
+2025-09-05 16:23:31,497 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:23:31] "GET /api/scanner/status HTTP/1.1" 200 -
+2025-09-05 16:23:50,781 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:23:50,856 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:23:51,469 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:23:51,473 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:24:04,073 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:24:04] "GET /api/scanner/status HTTP/1.1" 200 -
+2025-09-05 16:24:34,481 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:24:34] "[33mGET /api/scanner/capture_fingerprint_endpoint HTTP/1.1[0m" 404 -
+2025-09-05 16:24:48,357 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:24:48] "[31m[1mGET /api/scanner/capture HTTP/1.1[0m" 405 -
+2025-09-05 16:28:07,649 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:28:07,649 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:28:07,651 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:28:08,267 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:28:08,271 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:30:28,122 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:30:28,123 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:30:28,125 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:30:28,751 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:30:28,756 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:30:58,310 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:30:58] "GET /api/health HTTP/1.1" 200 -
+2025-09-05 16:31:00,887 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:31:00] "GET /api/scanner/status HTTP/1.1" 200 -
+2025-09-05 16:31:07,425 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:31:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:31:24,735 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:31:24] "GET /api/health HTTP/1.1" 200 -
+2025-09-05 16:31:26,844 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:31:26] "GET /api/scanner/status HTTP/1.1" 200 -
+2025-09-05 16:31:31,448 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:31:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:32:49,229 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:32:49,301 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:32:49,910 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:32:49,914 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:33:14,540 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\save_fingerprint.py', reloading
+2025-09-05 16:33:14,613 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:33:15,292 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:33:15,295 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:33:19,428 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\test_flask_capture.py', reloading
+2025-09-05 16:33:19,499 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:33:20,128 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:33:20,131 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:38:02,605 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:38:02,605 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:38:02,608 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:38:03,220 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:38:03,224 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:40:46,659 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.34:8000
+2025-09-05 16:40:46,660 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:40:46,663 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:40:47,313 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:40:47,317 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-05 16:41:33,546 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 16:41:33,631 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:41:34,494 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:41:34,498 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:41:34,804 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 16:41:34,872 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:41:35,539 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:41:35,543 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-05 16:43:04,319 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-05 16:43:04,320 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 16:43:04,322 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:43:04,958 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:43:04,962 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:43:34,157 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:43:34] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:43:36,577 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:43:36] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:43:46,313 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:43:46] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:43:47,924 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:43:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:43:53,293 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:43:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:44:52,828 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:44:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:45:08,741 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:45:08] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:45:10,563 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:45:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:45:24,877 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:45:24] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:45:26,695 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:45:26] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:46:50,335 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:46:50,415 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:46:51,081 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:46:51,085 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:47:06,953 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-05 16:47:07,019 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:47:07,722 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:47:07,725 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:47:37,412 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:47:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:47:56,317 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:47:56] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:47:57,951 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:47:57] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:01,287 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:07,862 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:07] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:09,379 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:13,946 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:13] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:19,742 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:19] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:21,301 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:24,547 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:24] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:25,542 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:25] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:26,946 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:26] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:29,335 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:31,637 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:36,032 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:36] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:48:37,941 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:48:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:50:49,170 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 16:50:49,240 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 16:50:49,894 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 16:50:49,898 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 16:53:08,317 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:08] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:09,946 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:14,400 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:14] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:15,716 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:15] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:17,520 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:17] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:20,488 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:20] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:21,494 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:21] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:23,170 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:23] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:25,452 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:25] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:26,566 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:26] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:28,518 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:30,883 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:30] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:31,894 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:31] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:33,644 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 16:53:36,591 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 16:53:36] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:18,393 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:18] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:21,080 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:24,371 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:24] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:25,487 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:25] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:26,794 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:26] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:30,039 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:30] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:30,968 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:30] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:32,652 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:32] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:34,952 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:34] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:37,196 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:38,008 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:38] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:40,044 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:40] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:42,347 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:42] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:43,279 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:43] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:04:45,405 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:04:45] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:15:53,272 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:15:53] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:15:55,650 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:15:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:15:58,303 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:15:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:15:59,136 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:15:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:00,789 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:00] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:03,284 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:05,808 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:05] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:06,712 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:06] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:08,128 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:08] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:10,337 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:12,683 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:12] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:13,375 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:13] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:14,577 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:14] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:16:17,615 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:16:17] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:47,620 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:49,770 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:52,378 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:53,243 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:53] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:55,902 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:58,314 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:22:59,270 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:22:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:00,527 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:00] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:03,315 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:05,277 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:05] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:06,060 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:06] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:07,875 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:09,910 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 17:23:12,346 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 17:23:12] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:05:38,364 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 18:05:38,608 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:05:39,488 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:05:39,493 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 18:07:06,026 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-05 18:07:06,026 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 18:07:06,029 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:07:06,721 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:07:06,725 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-05 18:11:39,150 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 18:11:39,239 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:11:39,913 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:11:39,917 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 18:11:40,902 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 18:11:40,985 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:11:41,752 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:11:41,756 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-05 18:14:34,169 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 18:14:34,246 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:14:34,945 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:14:34,949 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 18:14:35,562 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\config.py', reloading
+2025-09-05 18:14:35,652 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 18:14:36,321 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 18:14:36,325 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-05 18:20:00,411 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:20:00] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:20:03,107 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:20:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:20:07,954 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:20:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:20:09,079 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:20:09] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:20:10,416 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:20:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:03,476 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:04,803 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:04] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:06,143 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:06] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:08,771 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:08] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:26,813 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:26] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:28,021 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:30,599 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:30] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:33,682 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:34,381 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:34] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 18:22:35,974 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 18:22:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:38,224 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:38] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:41,406 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:44,061 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:44] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:44,752 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:46,276 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:48,347 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:48] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:51,080 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:51] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:51,933 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:51] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:53,497 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:55,888 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:58,190 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:49:59,361 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:49:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:50:00,601 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:50:00] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 19:50:02,821 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 19:50:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:09,691 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:09] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:12,101 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:12] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:14,272 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:14] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:14,970 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:14] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:17,111 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:17] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:19,819 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:20,747 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:22,117 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:24,352 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:24] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:27,403 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:27] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:28,315 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:28] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:29,664 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:32,273 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:32] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 20:26:35,469 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 20:26:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:26,612 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:26] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:29,455 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:31,983 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:32,724 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:32] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:34,510 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:34] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:36,606 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:36] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:38,988 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:38] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:39,879 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:39] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:41,577 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:49,520 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:50,934 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:50] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:04:52,286 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:04:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:05:04,834 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:05:04] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-05 21:05:07,831 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:05:07] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:05:18,080 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:05:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:05:18,777 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:05:18] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:05:20,210 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:05:20] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:21,754 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:21] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:23,313 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:23] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:25,599 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:25] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:28,378 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:29,180 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:30,561 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:30] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:32,642 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:32] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:35,003 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:35,827 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:35] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:37,429 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:39,851 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:39] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:42,135 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:42] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:42,860 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:42] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 21:10:44,228 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 21:10:44] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:22:47,491 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 23:22:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:23:04,786 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-05 23:23:04,787 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 23:23:04,790 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 23:23:05,867 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 23:23:05,873 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 23:23:16,286 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 23:23:16] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:23:26,551 [INFO] [werkzeug] 192.168.100.34 - - [05/Sep/2025 23:23:26] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:24:23,064 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:24:23] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:24:24,056 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:24:24] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:17,488 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-05 23:25:17,490 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-05 23:25:17,493 [INFO] [werkzeug]  * Restarting with stat
+2025-09-05 23:25:18,448 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-05 23:25:18,453 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-05 23:25:31,818 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:31] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:33,635 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:36,432 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:36] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:37,291 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:37] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:38,700 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:38] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:41,216 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:43,828 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:44,711 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:46,112 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:48,378 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:48] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:50,602 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:50] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:51,528 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:51] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:52,984 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-05 23:25:55,299 [INFO] [werkzeug] 127.0.0.1 - - [05/Sep/2025 23:25:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:44,632 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:46,647 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:49,053 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:51,154 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:51] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:52,564 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:55,694 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:57,360 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:57] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:52:59,497 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:52:59] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:01,917 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:02,808 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:02] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:04,317 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:04] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:06,504 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:06] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:08,820 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:08] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:09,738 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:09] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:53:11,449 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:53:11] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:39,438 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:39] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:40,900 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:40] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:43,091 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:45,188 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:45] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:45,832 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:45] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:47,199 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:49,447 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:52,190 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:53,215 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:53] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:55,082 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:55:57,330 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:55:57] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:56:05,408 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:56:05] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:56:07,757 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:56:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 00:56:11,583 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 00:56:11] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:16,973 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:16] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:18,679 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:21,303 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:22,136 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:22] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:23,575 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:23] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:25,861 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:25] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:28,038 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:28,976 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:28] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:30,909 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:30] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:33,176 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:34,009 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:34] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:35,870 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:38,256 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:38] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:39,437 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:39] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:00:41,835 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:00:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:17:39,715 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:17:40,095 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:17:40,608 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:17:40,914 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:17:41,564 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:17:41,571 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:17:42,101 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:17:42,106 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:17:59,032 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:17:59,119 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:17:59,950 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:17:59,955 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:18:01,554 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:18:01,652 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:18:02,491 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:18:02,495 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:28:40,732 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:28:40,868 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:28:40,900 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:28:41,035 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:28:41,968 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:28:41,972 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:28:42,031 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:28:42,035 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:28:52,112 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:28:52] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:34:52,549 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:34:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:34:55,093 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:34:55] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:34:56,574 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:34:56] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:34:59,731 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:34:59] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:00,436 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:00] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:02,275 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:04,643 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:04] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:05,811 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:05] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:07,389 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:09,871 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:11,874 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:11] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:13,289 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:13] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:14,689 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:14] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:18,115 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:20,147 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:35:21,493 [INFO] [werkzeug] 127.0.0.1 - - [06/Sep/2025 01:35:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-06 01:44:09,991 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:44:10,138 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:44:11,588 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:44:11,595 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:44:12,017 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:44:12,218 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:44:13,757 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:44:13,764 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:44:23,637 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:44:23,901 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:44:23,972 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:44:24,176 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:44:25,209 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:44:25,215 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:44:25,351 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:44:25,356 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:44:58,271 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:44:58,388 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:44:59,767 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:44:59,772 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:45:00,216 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:45:00,342 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:45:01,391 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:45:01,396 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:53:58,120 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:53:58,263 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:53:59,469 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:53:59,491 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:54:00,731 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:54:00,867 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:54:02,894 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:54:02,897 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:54:59,786 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:54:59,886 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:55:00,903 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:55:00,908 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:55:01,800 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:55:01,918 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:55:02,844 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:55:02,848 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-06 01:55:26,645 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:55:26,753 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:55:27,062 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-06 01:55:27,167 [INFO] [werkzeug]  * Restarting with stat
+2025-09-06 01:55:27,580 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:55:27,586 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-06 01:55:28,049 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-06 01:55:28,053 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 13:57:41,265 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 13:57:41,273 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 13:57:41,277 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 13:57:41,732 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 13:57:41,738 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 13:58:15,261 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:15] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:18,646 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:19,043 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:19,049 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:21,353 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:21,730 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:21,735 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:22,503 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:22] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:23,956 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:24,370 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:24,373 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:24] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:26,520 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:31,379 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:31,385 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:32,490 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:32] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:33,767 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:34,132 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:34,137 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:34] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:36,746 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:37,106 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:37,111 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:39,738 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:39] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:41,133 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:46,047 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:46,051 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:47,069 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:48,765 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:53,596 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:53,599 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:57,279 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:57] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:58:58,830 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:58:59,140 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:58:59,144 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:58:59] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 13:59:01,522 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 13:59:01,912 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 404 179
+2025-09-07 13:59:01,917 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 13:59:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:00:09,361 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 14:00:09,448 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 14:00:10,236 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 14:00:10,240 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 14:00:50,614 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 14:00:50,734 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 14:00:51,302 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 14:00:51,307 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 14:01:08,786 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 14:01:08,898 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 14:01:09,597 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 14:01:09,603 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 14:09:55,782 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 14:09:55,869 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 14:09:56,621 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 14:09:56,625 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 14:14:25,373 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 14:14:25,467 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 14:14:26,137 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 14:14:26,142 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 14:22:14,814 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:14] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:18,147 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:22:22,972 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:22:22,976 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:29,397 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:31,004 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:22:31,570 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:22:31,576 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:47,455 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:49,298 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:22:49,829 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 14:22:49,834 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:52,597 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:22:53,068 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:22:53,072 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:54,001 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:22:54] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:22:55,358 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:00,613 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 14:23:00,617 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:00] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:01,905 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:01] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:03,380 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:03,837 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:23:03,840 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:08,169 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:08,697 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 528
+2025-09-07 14:23:08,701 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:08] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:10,130 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:10] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:11,829 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:12,247 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 14:23:12,251 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:12] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:15,233 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:15,714 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 539
+2025-09-07 14:23:15,718 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:15] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:17,028 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:17] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:18,535 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:18,992 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 14:23:18,995 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:21,394 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:21,837 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 542
+2025-09-07 14:23:21,841 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:22,836 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:22] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:23:24,235 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:23:29,228 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:23:29,233 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:23:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:19,061 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:19] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:20,822 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:36:25,843 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 528
+2025-09-07 14:36:25,846 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:25] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:27,349 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:27] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:28,632 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:36:29,144 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 14:36:29,147 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:32,163 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:36:37,281 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 14:36:37,284 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:38,174 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:38] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:39,668 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:36:44,872 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:36:44,876 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:44] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:52,688 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:52] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:54,997 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:36:55,483 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 14:36:55,487 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:36:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:36:58,301 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:37:03,371 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:37:03,375 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:03] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:04,434 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:04] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:05,810 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:37:06,264 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 14:37:06,269 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:06] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:14,171 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:14] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:15,451 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:37:21,028 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:37:21,031 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:21] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:21,940 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:21] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:23,273 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:37:28,061 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 14:37:28,064 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:29,228 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:37:30,497 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:37:35,419 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:37:35,424 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:37:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:15,277 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:15] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:16,787 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:17,275 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:40:17,278 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:17] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:19,383 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:19,837 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 530
+2025-09-07 14:40:19,841 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:20,691 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:21,912 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:22,382 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 14:40:22,385 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:24,264 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:29,347 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:40:29,351 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:29] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:30,854 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:30] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:32,264 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:32,748 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:40:32,751 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:32] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:35,422 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:35,885 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 14:40:35,888 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:37,158 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:37] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:38,769 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:43,770 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 14:40:43,774 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:44,856 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:46,208 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:46,776 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 539
+2025-09-07 14:40:46,779 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:50,129 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:50,603 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 14:40:50,606 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:50] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:52,191 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:52] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:40:53,642 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:40:54,104 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 532
+2025-09-07 14:40:54,108 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:40:54] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:30,716 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:30] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:32,804 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:52:37,642 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 14:52:37,645 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:38,573 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:38] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:39,985 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:52:45,416 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 14:52:45,420 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:45] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:47,203 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:48,641 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:52:53,685 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 539
+2025-09-07 14:52:53,688 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:55,429 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:55] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:52:57,169 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:52:57,625 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 532
+2025-09-07 14:52:57,631 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:52:57] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:03,630 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:03] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:05,046 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:10,245 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:53:10,248 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:11,934 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:11] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:13,196 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:14,375 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 14:53:14,380 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:14] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:18,299 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:18,777 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:53:18,781 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:20,687 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:22,613 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:27,708 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:53:27,710 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:27] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:28,936 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:28] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:30,324 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:35,403 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 531
+2025-09-07 14:53:35,406 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:36,682 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:36] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 14:53:38,113 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 14:53:43,476 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 14:53:43,480 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 14:53:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 15:57:45,619 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 15:57:45,621 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 15:57:45,623 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 15:57:46,436 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 15:57:46,442 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 16:10:38,614 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 16:10:38,615 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 16:10:38,618 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 16:10:39,457 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 16:10:39,462 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 16:10:50,047 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 16:10:50,047 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 16:10:50,051 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 16:10:50,859 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 16:10:50,863 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 16:11:15,568 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 16:11:15,720 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 16:11:16,740 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 16:11:16,744 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 17:53:19,212 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\app.py', reloading
+2025-09-07 17:53:19,302 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 17:53:20,996 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 17:53:21,000 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 17:54:30,146 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 17:54:30,147 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 17:54:30,149 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 17:54:30,871 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 17:54:30,877 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 17:56:33,236 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.100.34:5000
+2025-09-07 17:56:33,236 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 17:56:33,239 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 17:56:33,982 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 17:56:33,986 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 17:57:22,668 [ERROR] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÚÚ\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04í')
+2025-09-07 17:57:22,668 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] "[35m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03QëPÃ\x93éJ\x95¨Ñjç\x05ú.kô\x8fE9;ñIËZþæÿhÙs. ºNã4\x8f\x9c\\Ë\x8c\x93·\x8eb¨\x8a2ø\x9bÞo««jr¾Á\x8bØÜîIq\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÚÚ\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04í[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 17:57:22,931 [ERROR] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] code 400, message Bad request version ('H\x17')
+2025-09-07 17:57:22,932 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03IÍ8Bþ\x19º¶\x1ao®A-\x9b²\x9c\x12\x0f´«\x1e""Y3¼O\x95ÇdÔ" èìÐj9·ïg\x9dp£$\x92Ä\x1aÊ*d\x11}û\x93êY«\x05Åe\x1ef@&\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85zz\x00\x00\x00+\x00\x07\x06ÊÊ\x03\x04\x03\x03\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04í\x1a\x1a\x00\x01\x00\x11ì\x04ÀÍ\x9a¿2¹\x9f\x11[°ÛL®\x12éYd«%`¦O\x97jX\x13Ì'\x0e7fµæK7Ã{û\\^\x18y¾Â\x10±ìÔR\x02!u\x1e4Ì\x067\x03.ð*:¶_\x01\x98\x89\x183²ZêZz7q\x84Á2\x10\x16;£\x107\x17B¼ù\x96Dµ\x88?\x19\x10%IÌ\x94\x8e\x1c\\¨9~\x95\x18UHD\x19\x0d1\x88y:-õ±\x1f\x89å6\x13\x91~A¦\x97Ö\x92\x8eIr\x13\x156\x99xü?\x00Ø\x1b«J\x91;ð\x8eÕ§M\x82Ì»\x82<\x80ºWk¯P:ôèR\x95±®\x96êº;Ø\x09~ÇSã\x88\x9bj\x80·v!WÌè¤~¤ÁóÌ/·\x1bPL¢!³±Å ²µî\x95\x94\x19É8z7%\x94\x96^buW\x84\x1a\\Ê\x96#$\x99O]\x9a\x94\x80µ?ìÉÉZr­¬UWõ²\x7f\x00ÁËº\x9a\x0eÚ\x1ar\x8aÙ8Àò\x89¸»\x08á×<WgU\x05\x0cL0úk`ç\x16ïò\x0e´²fn\x8czd¥\x96\x7f\x09\x899 ¶Í\x83ÉS\x97j6K\x8e\x98jlM#\x12\x08\x91$ \x19\x9f\x94ö\x18\x87ö{©QY>\x84fû\x11ÆLZxod´\x9dÓ\x929êa8&X\x83µ\x19Ð§Áih\x08Lk)ª´\\IÈ#\x8cô/æØ\x89l\x1cH\x17[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 17:57:22,977 [ERROR] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+2025-09-07 17:57:22,977 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:22] "[35m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03,\x13E1\x86\x13©à¶o8tõ²¶H4\x92(aG\x07´ü÷åA\x0c¡dùÓ ,B\x16ðyj\x913!¹/\x9dú\x06®\x02\x91³{\x9a0¨\x02þ!0Cñ0\x0e Ï\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ZZ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 17:57:23,242 [ERROR] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:23] code 400, message Bad request version ('%6®!B\x94ì\x10YÇ\x817(\x00\x1b\x00\x03\x02\x00\x02DÍ\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01\x003\x04ï\x04í::\x00\x01\x00\x11ì\x04À/é\x97úz\x899º/Ê(\x08\x98$2ãäB\x19')
+2025-09-07 17:57:23,242 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 17:57:23] "[35m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ñ»¦{z~á|0g](\x97Û\x09¡E\x96"!£~[|\x8aF{e\x9a¯\x99© 6\x1eDw\\«ÔÂÇµ2l»¨¦£\x14\x8fº\x8dðL(½?¦\x00ÀëæÂí\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85ZZ\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01\x9b\x00 ª<Ü*<ö\x9c\\~Éû0\\L\x8f\x82rBÐRüî¶3`6\x1a°\x0dÆOt\x00ÐóL\x98/ò\x83iÞ&\x19®\x91<´(\x93¾"j?\x8aTg\x0f\x85`¾ÊÎ \x8b9i0\x8eÈ\x11\x85?Æ\x88\x9b\x03¼s\x1a»´SVO¡mÏ\x1dV¡cü¡Ï\x8a\x1f\x1f\x90\x93\x1dqB&y\x89\x0bm\x9fy\x7f+\x94ác\x05\x8eË\x14\x0cv\x99!ïmåÑ0¢ñ×v\x15\x8e\x8bôjH\x1fòÒ«Åt_Úúp&â\x9c\x12Ef\x1b\x07\x0fëPôòû¡Èa¸À\x18K÷\x18©aoæ\x85®º¯@!¤2ø?r<\x95ÒUC\x1dFDf·ÿxú½@ú¦ñÅt~ë<ngÈ½¡x*Í°hæ\x8bT\x96 í²\x0c$\x1f%6®!B\x94ì\x10YÇ\x817(\x00\x1b\x00\x03\x02\x00\x02DÍ\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01\x003\x04ï\x04í::\x00\x01\x00\x11ì\x04À/é\x97úz\x899º/Ê(\x08\x98$2ãäB\x19[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:00:39,923 [INFO] [werkzeug]  * Detected change in 'M:\\thesis\\kiosk-scanner-app\\certs\\generate_cert.py', reloading
+2025-09-07 18:00:40,010 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 18:00:40,857 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 18:00:40,861 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 18:20:17,454 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:17] code 400, message Bad request version ('C,\x00')
+2025-09-07 18:20:17,459 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:17] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03wÑ¸n\x07Ñ\x8eÚm{Mñÿh'ßq.\x92\x9e%2\\éä\x1fA\x11çBº\x13 \x9e¤YQk\x87VÞx\x8fK®|\x10\x17\x84\x81á¶ËH\x05·9\x83/º\x98c\x9e!(\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S::\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01&\x00 .T\x90¦r2\x9bÏ:K\x18\x15\x85÷HÿÙ\x94Å\x0fÏíÅA!\x9e\x1bÔ¶$¿y\x00°Ìr\x12_®© \x82é£\x85|èN\x90\x8b\x8ee\x1c;\x04(\x9eØ­*?#ëJÃôí\x8a\x18èWm_¶\x08÷\x84ÔÔ\x82\x011+d4\x11T¥J\x1e\x9e<v\x9aÆp\x813ï»öÿH\x03Òðn(¼·&G±\x0eH^\x82é\x11\x04\x8eè!\x1d®»ã#\x9dM#Û\x0c\x84\x1a]i[{l.\x86\x87Þ/\x9cÆ\x9ahu»éP#¤\x0dÞ³{g\x92Å0íÛÐÊÕã\x9dÈ{øºyý\x12DëhÁ W\x06\x96\x12\x90'\x8ekU»\x12As\x89Â\x15BÏ½¸÷\x80\x02E]\x0dC,\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:17,463 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:17] code 400, message Bad request version ('x')
+2025-09-07 18:20:17,464 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:17] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03ø\x1d<N¦C"\x817\x10 \x05x\x7fne\x96L\x10âw\x15\x8be*\x9a \x86°ñWb *Ä\x8fd-¸6 ÈO0Ö¾àb\x15\x070\x93 \x9c\x13\x1fü@\x85\x05à£±Îü\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÊÊ\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04í**\x00\x01\x00\x11ì\x04ÀÝ\x94t¢VFi´\x15ÅÐ-\x86Å¯y\x9b\x9aòVY_÷Ë\x83Ò\x84kå$\x05,A\x92Û¤ý\x10bBØ\x11\x08ü²½T\x14Þ{%/s\x109\x82­è"IÕW£á&J>ÙªÂ7/2\x09Ðä¢\x8a£ìµµÒpÈ9Ê\x07\x83Îu\x82!l"\x0c¤p\x97\x86\x92\x92Ñ¢¬Gi%n\x82\x11\x18q\x11QL\x1f²Õ#í\x952\x0fw.Mh£¥ú¯"DÁ¯ëzE§&ÁK.Õ»Yeö0¬\x11\\£ÕI²Q\x12âb«\x99Å\x1b´°H\x0elM§\x16\x0beâ)p9Æ¯Ð4½£°\x9c<º&ó\x83ËÀ_qú\x9d\x97LL\x07\x01\x1a\x09»²\x91\x1aÅ®\x87P\x08\x87*fë6K\x1a-ÔÕr-õ)\x92ºµ8·\x91õ\x83¿ìð\x90lIU2Klå\x07\x1dm(\x1c\x18{\x85ëIÄäæ\x99zg\x98éÜ\x16ã5\x14P\x06JÞñ\x0fÔò¶B5w"âr\x8d\x92¶u\x92Ãþ°!äÒ)N\x8c\x08\x86#\x7f\x8aÈu|\x80\x18@[u\x14Ô'Qh?Å1Xàæb\x06ÒÌ\x96\x98M0"\x85x[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,100 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+2025-09-07 18:20:18,100 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x05A;\x967\x11öT|\x8e\x80º2\x02\x00¶.ÅSª\x161QµDÝlCz\x05t\x11 \x8f¢Ï\x12:\x89\x08\x91¬°d\\ìÒ¼KÍëúa¼ón¡¿Qæü\x89h\x01L\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,102 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ("1kP\x19.\x82«\x0eç\x16O%rå\x01bru\x00$*\x029¬#5é\x89\x9cc\x152ÚIãuÃðë5\x01º?\x17u'×\x8cXp7\x81\x9f!^Â\x12\x83ÌìC¹\x98\x8c\\@Î[EKZ¨:òQ\x94³§B\x9ad¥")
+2025-09-07 18:20:18,103 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03,SÐYºµ¶\x82Í`he_"\x87\x16\x84d0o\x98¸\x17\x96ëS{á\x03êcÊ ý4z\x12\x1cÐ\x94\x12V5\x90EÐ\x06ÿï!ÞkEo¥\x97·\x82V\x9cK¶"\x10\x0b\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sºº\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x00+\x00\x07\x06\x9a\x9a\x03\x04\x03\x03\x003\x04ï\x04íZZ\x00\x01\x00\x11ì\x04Àx×°m\x84YTWeú\x91uÍ\x14e_a\x9að\x14^ÐÄ\x7f\x09\x02v¼ÛÉa\x04\x9dCö\x06<lLlz\x8e£\x19\x07H44·\x03%^cn»z\x96C¤,&@Y\x0fcÁr\x06½¼àTP3\x9bèÂmÌ\x0c1kP\x19.\x82«\x0eç\x16O%rå\x01bru\x00$*\x029¬#5é\x89\x9cc\x152ÚIãuÃðë5\x01º?\x17u'×\x8cXp7\x81\x9f!^Â\x12\x83ÌìC¹\x98\x8c\\@Î[EKZ¨:òQ\x94³§B\x9ad¥[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,292 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÚÚ\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00')
+2025-09-07 18:20:18,293 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03í\x81A,ë\x8eÃÚ\x8a¸v\x90tÞúTáªBÐã¶\x907£û|@,\x8e\x09ü Q]@F\x95\x1a\x16^\x1c¯\x1b\x84\x0f\x19\x9fô:ÎzÍ\x8e´:p\x9bM\x0eU\x18ðÞ@\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÚÚ\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,297 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2025-09-07 18:20:18,298 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03ÖNÓ1ö\x09ÿ\x06\x04B\x14á_¤\x16Oó\x9bÅU\x0c{JÛ&û6ê\x05­\x93Ï èâÖ3úÙ\x9bûO¸\x8b¯ü¼bnÚ\x08\x85\x87ï£\x1dã\x9fãÿ\x98|ð\x9bÑ\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x9a\x9a\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00\x0b\x00\x02\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,484 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ('{)\x01ÊÍÔ')
+2025-09-07 18:20:18,485 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03>¥H°7é\x1fZa0\x90Æ\x0ba°!úîçJü\x92ª\x1f[\x92Ê,\x86\x9ehó  _<\x87ÀN\x13ay\x8bã\x82Çú\x05\x19>¦<õE¡'º\x7f\x8cÅPÔ\x14\x08\x8a\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sjj\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04À\x1f\x8aªBÓª´©PP'µÆ\x87\x9cNX\x86¡ç\x09\x16C\x14BÕWú|\x12C"sÑü\x81á¦ \x1e"¤\x95áKÿ¸O%\x00t\x92\x019FÆ!Øè\x03t´¼>P\x19·ú²[ØmNÓ=\x91#)W\x97$;\x8cgVûQ\x1c\x92z+ç;\x08W²\x95V(r\x8b@Øe<ò\x03\x89ì5½gT\x0emT\x1a¼\x89@\x98 yìÈ¸Dá\x1bêg\x1a×V¿FvRâP\x1e\x17U\x04GX­1Y¿÷p\x88Q\x11º\x10j¯QÓ ºé \x8dðz\x91\x1c{)\x01ÊÍÔ[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:20:18,488 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] code 400, message Bad request version ('\x18g¦Ì\x14\x03pêfc')
+2025-09-07 18:20:18,488 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:20:18] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x8fA§\x90 øZ|Ý»CEÂ\x16û­1\x93}ö½\x8dÐg6\x89Ã\x8e\x90\x05i\x92 Dåë\x88û\x86}c\x86\x0dkKc?ÁÌ'3\x7fÉÅ\x9dÂº\x9eKp!¶÷]V\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04íZZ\x00\x01\x00\x11ì\x04Àß«*V*¬è´X«ç2\x85%¨ÝÁ\x19[²¦\x9fð°P'0×\x17\x7fNô`ÌÐ\x90Øfvè\x17\x11~+\x16Fv:¬g>×Ô5×Õ\x96Ra\x03sÈ\x85x¥^\x08\x1bS'¸\x80Tr®P9»¬¬E\x100ÇífÂ\x98Ü\x1eë\x1b©\x12ÒÍ\x8a\x81\x02d\x09\x18ÍÓ´\x9côP6ÄV\x86\x0b\x9e-\x1bb¾c\x1dHe\x8fdlHßÈGóbk\x89h\x00ò4Lä*~~{\x80\x8e\x97\x81eÀ\x89\x0b i\x82EVr\x94\x0b\x18g¦Ì\x14\x03pêfc[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:21:08,167 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:08] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93jj\x00\x00\x00\x17\x00\x00\x00')
+2025-09-07 18:21:08,167 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:08] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x8c\x89Ùà\x0duxõnîà»-á¢ß×Uòÿ÷¾ÕÓ+\x8bjlçMÿ\\ w\x0cM­C²1v\x08Ç\x933QÔÖ\x92æ¬ói\x7f\x09j/\x82\x83cIÂõ\x86R\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93jj\x00\x00\x00\x17\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:21:08,170 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:08] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2\x00')
+2025-09-07 18:21:08,170 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:08] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ç\x87åí\x06\x8egæ®°kæï<Sõêue?ñ«c­ÖMò\x93\x94ìd` j\x97É8\x1fU>÷\x00Ü÷Í­\x00IÂç\x0e\x91\x18¥\x9d«½a:\x08ÆìÝãô\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sJJ\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:21:18,243 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:18] code 400, message Bad request version ('é5\x8b¦}J')
+2025-09-07 18:21:18,244 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:18] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03ò³¡cBæ\x0cYá°û'\x9døR<Êu6\x96²¾\x92'\x1e+^Ýé@f\x8c Ds/Â5ÐE\x03¨\x8d~MôôAk#dÃE¨Á\x08¦[\x0faÚ3äV¸\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93jj\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00+\x00\x07\x06ZZ\x03\x04\x03\x03þ\x0d\x01\x1a\x00\x00\x01\x00\x01\x9e\x00 \x03p0ò¤¡-\x0d\x99úPd#\x86ð\x97s\x1f\x8cn\x88ûM\x8a]\x9dÙd£¿ïh\x00ðCËe9ê\x8c.\x90ÞÍ\x16\x1ef£Ô4O\x8a´¬¨j­«É¹Úÿ\x8f é5\x8b¦}J[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:21:18,252 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:18] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+2025-09-07 18:21:18,253 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:21:18] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¬\x19\x04\x0c\x17@zú\x80Çþ1\x83\x92ÒÂ(["3\x93>\x8a\x02Ýd¶&Âz7) N½¹²u÷\x91|×\x03À\x09\x94ú;a\x8dM»[åó\x84ýû\x0cF\x7fÆP\x06×\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,058 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('¾Í#{\x00')
+2025-09-07 18:22:37,058 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03W1ª¥ô£D\x1eµ\x0e\x87µ_+3IfÃÝ\x0bëõ`)áÏU5e\x8cÊÉ MÎFg91\x17°ÇJ¬ vÎÀdìQYzá\x03\x04\x9e\x8b\x1c&\x0b¾Í#{\x00 [0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,060 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('dM!\x15N¶r\x1a\x02Ñ*öÛ$')
+2025-09-07 18:22:37,061 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x94\x016Dô¶ÁÍ \x88\x07W&<¯4$ÓfÙW\x1d\x0døý¨\x0b\x9dö{\x94Ì \x06PÞ\x01Ù\x97U\x8d3\x8c+óÍ1\x85fAv·*ÛH{W§ñ:S.\x97\x0e\x1b\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04À\x07\x87\x9dè\x85\x84¶v\x86\x8beÏ´Reà¶\x80\x82\x02\x85íS&óU¨SVq\x12u°ç\x09³\x00Å\x05ÂØ\x80\x80ÀhpÒpØi¡³%2j×<uba-ò©çâ2clQ>2\x84Ê\x15\x1eåz\x17ÌA\x0b\x0c\x13B÷\x8a{\x1ep\x078Ò|Ý\x90ZìÐ\x1d» ³¡`\x08Ç¶»\x18T\x09Yú!\x99ô \x80\x99¼bFEx'-*ûE\x19ðwÚP$\x1eÛ§Hc¾Tù=-³\x16\x86LÉ037\x87vxvë²lÜºÐ«?\x86GÂ×<\x7f\x96\x00\x86\x99#\x1d\x99Q³\x00,\x87{¸\x15\x987\x8e_x\x9d\x91ö%É\x18néì?æÐº\x0fA&ë8w6É\x13X\x166a0¸®2IJ\x08Hõ\x0b\x95áÅ\x99:D\x9d\x1d\x8c¥áÌ»\x06ÆaUÕ°\\i( \x07\x99aHÏ\x8cë>2*#¹DbÍ+\x923\x90\x03ø6Q-;¶©ÚT\x9c\x93\x8e\x0f\x97\x15jô\x0d&ò\x12(µ\x90ËYÀ4\x13x\x9d`ª¿\x88¹V8¯\x1cólÛ\x13µÅ\x15»*H\x99bÖMm \x84qÑoWê\x93#6A\x80\x13¿\x17\x16ªr\x99\x8f\x84Á\x8e\x138pó«vY\x94§EÄ \x1b\x8c{\x17Ã\x88L¬\x8d\x9a$g\x88±¤÷ü\x13«\x03!¾\x87\x01}y\x83¶A\x9dNy§B\x90\x10[\x0bÂó }\x11ÅMÖúÉ\x153³áumä\x93H°\x01~\x01¶^OÑP&0t0ó\x18XT\x8an»4\\wZ?<>µÕ·\x02#\x9fDv\x12`\x81l\x94bÇ\x00}\x81>ª£6G\x8f\x1aC\x1f)È\x07ö\x1bÍÚºkî[f\x09dM!\x15N¶r\x1a\x02Ñ*öÛ$[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,606 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('ø¥\x19ÝíUÆ_°\x00')
+2025-09-07 18:22:37,606 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03§\x1fÿqú\x17á\x0d½ì÷\\\x96Ðøñõ|\x1be¢§ð]Ì±­?)\x11iã \x1b\x11_gP¸Ì´(Å\x0biv÷\x90òrè\x14R¥UP¦mÛÄ\x90ê4´r\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ÊÊ\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00þ\x0d\x00º\x00\x00\x01\x00\x01\x17\x00 \x14\x16Q>¥2°\x9a\x06]c*\x9fx/h$¯í=«\x85\x81\x1c6îFpøx4\x05\x00\x90\x99G/\x1eû¯H´!ÁÎ\x0fõ=ÐÀï\x05}\x0bE\x7fÁ\x8e½¡¨\x02ü©áyá\x83b\x0fÁ\x96\x80-\x91\x1dh\x08\x18@²7\x882ÚÖ?Óªi\x1cLÍ\x87\x92\x8deQÖYæþLßª:ú;°\x0b#k\x9aªØ\x97Á9¥Ø4]ª¿Ð\x19Z&b¿ØÇý:¢ÙV\x14Çv´§\x8b\x19ÉÜ\x9dl\x04óâø\x99\x1eÓ/\x9a|@0\x1e*\x87+­Wº\x06\x0bø¥\x19ÝíUÆ_°\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,608 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+2025-09-07 18:22:37,609 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x86\x95\x86Q|\x12\\Í9Öù\x15\x96ÚÁ%¥«ºVHæR?áµG\x0e\x06Q-å \x87©å"\x86)cí\x02ç¹«¾Úñ(0ÂuÊ\x07Ø°>;\x09ÚµÃì"ñ\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93**\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,800 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('â\x04\x96\x81')
+2025-09-07 18:22:37,800 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x03Cá\x86\x02\x93¶ý\x80a\x0bÐë\x82â§¿S$kLh\x9fyL¹ªG\x16ìL8 P\x80\x12ô{ÍÓ÷\x87é;¥y\x8aC\x0e\x87\x92çK@â ôaÊ\x87¶O\x94i´\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01þ\x0d\x00Ú\x00\x00\x01\x00\x01ë\x00 =\x8eQôx\x01\x1fâ\x04\x96\x81[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:37,803 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] code 400, message Bad request version ('Ò\x11EZâ')
+2025-09-07 18:22:37,803 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:37] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x0dùÏH\x08K\x06¾|\x84ôÅPx\x0c\x00XPøa\x8c\x13!×\x09ÎÃXÞM$Þ O\x93\x97\x05Û?\x07Ò\x04°1±5ä³ìâ6XI\x04¾O\x01&Û\x14Y)\\:À\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S\x1a\x1a\x00\x00\x00-\x00\x02\x01\x01þ\x0d\x00Ú\x00\x00\x01\x00\x01\x83\x00 Ò\x11EZâ[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:47,395 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] code 400, message Bad request version ('êé#SÑÛu¦/²O(°\x1aÝ2\x88ÒVV\x91\x8f')
+2025-09-07 18:22:47,395 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x86\x05¨\x1b\x19ÀxÁ±\x19(¿ê5àõÍa³\x82+sW1\x91\x85Ñ\\ÃÜ\x11ò \x09êé#SÑÛu¦/²O(°\x1aÝ2\x88ÒVV\x91\x8f[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:47,398 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+2025-09-07 18:22:47,399 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03Ëª:Û2\x0fÄõ³ðâ\x9f¦ä{\x13!Øê\x8b\x92F\x07a÷\x82ÔÃè,?\x1e \x88q1¨\x1b×i\x9c²\\Ã\x98n1éQÀ2¡B!ÒQ©q\x8e\x92<wê9\x8c\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x1a\x1a\x00\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:47,404 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] code 400, message Bad request version ('\x98ÛB')
+2025-09-07 18:22:47,405 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03Ìââ\x92y\x13¨ ÈWÈº®Òèy\x97\x87ä{Ëü'\x83Û\x98 ®Þj\x92ì xSñ\x8cBªÈ-ã³ÎSÆ°é=Ì?û»cªkuùâ\x8bü\x13\x0e\x98c\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ºº\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x00-\x00\x02\x01\x01þ\x0d\x01\x1a\x00\x00\x01\x00\x01c\x00 4#ê)\x13õ¾+óñ\x15I¥MÀôÚí/ÿæû\x13L¾Ú%:1û\x95^\x00ð,F4A~È\x97I«\x9düHÏ?7|ë\x8d\x1eÆqEÏ®¡¨í¼µÉð¶V\x059uù\x9c\\:LÃ\x0fKècãvI@ýõýgáë+\x0d\x09\x8cB_¾p\x1b1m¸ú¹\x07ÉË\x17û\x9b\x1a\x80´G\x17\x1c\x10ø¦ìôy_!.2>y\x83ëw¦Óý\x8fÙ¯âÀÚª\x91ç\x8fxv^®¼j\x8a\x15t\x8bé\x0föb5\x9a}åvø+ ­&\x8f\x07)\x16IÔ'\x10iÅCß®S¤ÀùC`\x07x\x1d\x97¢\x81vT~xæ³Zuê\x00A¯n\x9aÉ3k\x87\x0cî_Ù\x03W«ÉU\x00K\x0fa(\x02áîÎ[\x09»f§Q1ª¦n\x1b\x96Ë«7àfbyS\x81\x82^\x85»\x07\x95b>Cç:\x9a§\x11\x92j{óò\x8c\x7f\x09Ñ©\x00+\x00\x07\x06::\x03\x04\x03\x03\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04ÀfÊ\x03|\x8bM\x9fª\x9e7lB\x1d¦\x84®¼ÂVDhdEK&«R{A`v,\x1f«\x90´Ü\x90i¦&\x1bÔw\x7f®9\x1f\x08Ä\x8fß\x94]Á!\x99Ö\x82W>\x16cmúÂ&¥³1+QÚåk$÷\x91\x16ö\x0b4ÄÁ\x1c{Z&q7ïT\x11\x0dÇ&\x84 \x00-Á$u\x92Æg\x92\x00G\x8b.·\x90Ê®E<#\x89ª¾@5x¬º\x87*z=\x91\x80|ö\x1aeÆµ&ÆDW¬\x88>\x06Á[Û\x87ûK`ÌÒ;O[N\x97ù£OA\x18\x92(\x1eª·]ÏUYI\x14Z(\x9bEÇÙZ*b\x81sÄ\x1d;ÇÇ/\x1cL.\x1a\x81r2nÐã0\x80÷\x08Üª`ñ8^\x89\x07±Ü\x05\x80\x09ðO\x05Á\x84ÍJ\x1dWæY¢\x86À§#Á\x10c\x85\x1c\x06\x1aJò°\x04:¸#²\x8e\x08Ñ²\x01«·V\x9c=cÅ\x91q\x02Eþéµg\x14oÄá\x19òºdEôu3áRÚ¥PÍCBx\x87\x11ñE%\x19*\x94\x08\x17kJ#\x842ZÇ|\x1cÂzÌ1©æB#ÃVêp\x8c#«¬\x98ú+'iié\x82\x87\x12(#ÀëÂ¥çA¦ÙE\x1e²g\x8a\\\x8dÌ\x11Ë2Bk1ô:\x83i[@ó  u\x88Wª\x13ð\x99%\x00Ô\x94Þ\x03\x99µ\x1a°RQ:\x83gµ*2n«%o\x05w¤úù:?T8DK³[\x186¦\x8b¿< Íw2/é9s?9<Ö\x06°ðÖ\x9b\x0dG\x9eB7?o5Å®\x86\x01oI¯.ôa> \x98ÛB[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:22:47,408 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] code 400, message Bad request version ('³çØÇ§Ò\x11~p\x0eé\x8c\x1b²')
+2025-09-07 18:22:47,409 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:22:47] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03è´ÃV|m\\v\x16\x92\x88aF\x99<èéP?{íï~éÏQîhlG?Ö x1\x19[Sà\x82¸r(¹\x8fNÝMüMRÄ÷°Qx\x0c÷Å¹\x16~q_\x94\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93JJ\x00\x00\x00#\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00DÍ\x00\x05\x00\x03\x02h2þ\x0d\x01\x1a\x00\x00\x01\x00\x01#\x00 ³çØÇ§Ò\x11~p\x0eé\x8c\x1b²[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:24:45,377 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:45] code 400, message Bad request version ('mõ{\x80')
+2025-09-07 18:24:45,377 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:45] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03t\x91\x9c²=AMB±t"DÉ?\x06Wmä|\x1cø\x98º\x1cËUYB0\x14\x81Ë \x1b\x87MÙR0\x194v\x89\x8c\x9aÞ*ðSjI\x17\x1dA¯o\x8ds>A¼C¬%\x9c\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00\x17\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01\x06\x00 mõ{\x80[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:24:45,380 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:45] code 400, message Bad request version ("\x99'b°°")
+2025-09-07 18:24:45,380 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:45] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x09\x09\x85IcñôyÆÓßX\x80*¾ÿ8V\x9eè\x85ê¡¦\x01\x03\x91/»\x0c\x18§ 7\x0dÌ¥MÌ%]ø\x9e?C\x89ßM.÷ß\x88¤.\x9e\x9eyì\x88^\x0b\x9c¨I\x0b\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sZZ\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01\x1d\x00 )K'e\x1c\x11j\x97[;ªAÁ>°3\x05\x0c-½\x0fù(îÄÜÈ<¤üè{\x00ÐÊó®\x19Å{:±\x9b\x98±\x07H{\x13\x98)@±mw\x04@\x85\x8aH,\x87\x97jLúÌ\x9dw\x11K)­ÝÕÉÑcZÒÓíiê\x98\x09ê`§ \x88\x15ÿÖi\x9d\x1dßÎ-·Ålz\x0f»\x11»gàJö\x92Ï[âÁ\x13ÞÇ\x8eÝ5Hr«\x04*3\x87=<³Ù\x1fÎM\x07\x08¸í0\x9eJ\x1aë.üþ\x16K(Ú\x8a¬l|\x8fs\x98¨\x10µÀn\x1b\x8eì3&B\x1c¥é\x12~5¸_Cï¡i\x1dgD·øÐÌ\x82'Ö¶¢÷î\x1bl\x8c\x12uº>ÕíóÅ\x02G\x85|7á¶\x8fVdQU\x16Ü\x94P\x84\x05\x81\x91næ\x05½·\x84\x1c\x90Ò\x85*\x97ÜÁ\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04ÀW×\x1c ê\x97ÅF@z\x87§*9At\x83\x9aÍ+\x01Ü\x8a\x1cz¼\x8a\x8f\x8c/qø\x16\x17b0Å\x13ZDTÏ¸\x06\x96ÿ#)\x81g\x9dpö!£PHwùz\x98ù\x94öÄ®ó\x17\x1eÚ\x85Sû¥\x86\x1cèSv\x09»Êx¿\x92³8AÑIã¬zÌv=OE"§ì\x17ý\x91µØ; RdÉ \x99'b°°[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:24:46,198 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:46] code 400, message Bad request version ('N@\x95¤¤ëÏ\x9d»Oê¤\x93±çj\x91Ã\x04ã\x9b\x08°ÔÇ<\x92\x82XBQßL\x9fh»\x18É\x18$(z')
+2025-09-07 18:24:46,200 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:46] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¼óU\x15/ô\x0f\x7f~y<²´Q\x83<\x15"\x98Ä)K.Á|û\x8e#\x13væF øº'Iï½ñó!}Ùîg\x0c²\x9dj\x88'èÔ´\x0bY\x1aúðsÙ\x17b]\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93úú\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x17\x00\x00\x003\x04ï\x04í::\x00\x01\x00\x11ì\x04À\x95 N@\x95¤¤ëÏ\x9d»Oê¤\x93±çj\x91Ã\x04ã\x9b\x08°ÔÇ<\x92\x82XBQßL\x9fh»\x18É\x18$(z[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:24:46,202 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:46] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00')
+2025-09-07 18:24:46,202 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 18:24:46] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x08ê\x08È\x93\x16+Ù\x07û¦ÅÈ¬9]ÃÎ\x97\x91È\x11\x1e\x83wAÁÍÛx_\x95 mcR$m\x8fð¼8æâ\x1cìÌZp\x9bq\x86u7T³¸\x95ù×ñ\x07#ð\x13\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Súú\x00\x00\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 18:27:40,220 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:5000
+ * Running on https://192.168.100.34:5000
+2025-09-07 18:27:40,221 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 18:27:40,225 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 18:27:41,650 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 18:27:41,663 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 18:38:40,353 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 18:38:40,354 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 18:38:40,356 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 18:38:41,291 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 18:38:41,294 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 18:48:37,840 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 18:48:37,840 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 18:48:37,843 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 18:48:38,711 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 18:48:38,716 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 18:55:13,438 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 18:55:13,438 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 18:55:13,441 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 18:55:14,305 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 18:55:14,310 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 19:04:06,640 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 19:04:06,641 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 19:04:06,644 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 19:04:07,539 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 19:04:07,545 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 19:10:16,434 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:16] code 400, message Bad request version ('\x13¢¶R\x00\x90\x805.·àÁ°')
+2025-09-07 19:10:16,435 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:16] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03Í¯\x06d\x93ÊL\x12ÌFy\x89)\x01\x06E\x8fÞB\x01öù+\x1eCG\x0e\x14âM\x9a; UÛW\x94\x87w\x9f\x1b\x89þb\x8aÆdÜ\x87\x0b\x0d\x1a?V¶4}ÕIwJ LÎ\x9b\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x8a\x8a\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00þ\x0d\x00º\x00\x00\x01\x00\x01ð\x00 \x900L\x0eÒj\x9d? \x12ûÐ \x02d+\x9fmì¥ykð £ñ2\x85\x13¢¶R\x00\x90\x805.·àÁ°[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:10:16,439 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:16] code 400, message Bad request version ('oÌ·9\x84°\x924*e\x87\x95\x05Ýz\x84\x8e®GÆqÓ\x19X\x01\x14,Í¦ogt\x9eæÙPó\x9c\x80\x91÷2Q\x9a~ð¶L\x16¯ÊVð\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00')
+2025-09-07 19:10:16,440 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:16] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03dÓT\x18\x8aPy\x8f\x98\x12WMÔÙM\x9c\x0fU\x1cµ_¢\x10k\x9cCò-V\x99ê¼ n±¨\x16ód\x93Ã0\x90)×ú\x03\x1bµ¡òj\\L\x03Ù/îMè\x0eøJ)r\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063êê\x00\x00\x00#\x00\x00\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03\x00\x0b\x00\x02\x01\x00DÍ\x00\x05\x00\x03\x02h2\x00\x17\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01\x17\x00 dH\x90\x1f\x0b²Ëg¢\x8d§Õë} k\x90ÇR¹p¹\x98"ÿÒøÞ\x0c\x11_r\x00\x90ºgf_ñ\x1dôÐGéQ\x19ÔT¬\x01¯\x08Å&{\x8e==k×\x8f\x19è¡\x136\x85;mð\x911 A¬Þl:\x07k\x14ôp\x07\x9c0cÃ@\x0b\x0e\x1aè\x00Y'\x07ÖÌ.\x83\x92¼\x9f¸ú\x14Ã¤6F|ò~4%[º\x00]¹Ö\x17]\x1foÌ·9\x84°\x924*e\x87\x95\x05Ýz\x84\x8e®GÆqÓ\x19X\x01\x14,Í¦ogt\x9eæÙPó\x9c\x80\x91÷2Q\x9a~ð¶L\x16¯ÊVð\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:10:35,464 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:35] code 400, message Bad request version ('÷')
+2025-09-07 19:10:35,465 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:35] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03÷\x0e\x1eh\x0cW\x1c\x1aÐ}Ô\x09A]F\x00\x9b(&WïÁ\x94úð\x83Ï\x11k\x00;a \x9e\x9dXÎ¢ÖÒmè5 Ä\x7f\x0d9×4 äV\\ùÜ=qÿ\x0e\x04£\x97×.\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Sºº\x00\x00\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00\x12\x00\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04íºº\x00\x01\x00\x11ì\x04À\x19a£T\x94i¬{N\x07zÌ²AOSê\x80\x9bB\x07\x98,Q\x0f·µ;\x84\x80]êX\x8bÈ4R2'\x0f6X£ìfQÊ½K\x9a\x09C\x1b¨·\x01¢üø?êâÆÅ\x07¢Ý\x1a?\x86L\x046blyé\x18åCÄøë\x8e¸ã\x15ç\x18\x8c\x81Öz\x92\x95tO¦Ã¶ca\x06ºWóËÌýZOX<mÞ\x85\x91Tk=A²\x80\x02\x05g9K\x11\x1dÃ»\x16p\x7f£\x81\x1e\x1bÄ8çwW\x9b!OË£\x8dø\x06~8I\x10Îw\x0dKk¼Z\x86\x02\x1e÷[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:10:35,471 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:35] code 400, message Bad request version ('Á\x95Ùk\x7fÁ7\x13-»Ã\x8e[°Í\x80\x05O\x87¾z')
+2025-09-07 19:10:35,472 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:10:35] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x97µ\x1fÂ4òâ>\x90YÀÅî\x077åETDG~Ð¼\x1dD\x97ì3Õ@ÐÁ 8ëìUI?\x1eó\x15\x19æþ¬\x9bÎ(\x80¡CêC¢"S\x11»ë16Ó¹¢\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2þ\x0d\x00ú\x00\x00\x01\x00\x01j\x00 \x12¥£RX\x91¦\x9e\x0d¤§dI\x0eo\x16jâ4´Í\x12\x11IkÆ±¼C4\x1a$\x00ÐD»ow\x12\x8dÁ\x18Ê(\\j1§Ï1útîè\x81\x10A§`<ÍMÓ)Pö\x85Õ0²F»XÃ§>é6\x7f\x16-\x91ZB\x8d~pU÷ô6\x83ýb"¢\x8cô×;ÞñÆ\x18×<¾!qå\x80nb½¤\x98wE\x0e§Þx)Uuf+V©\\\x9ad\x80Ä~å¢\x84F¸°í¢&ëö&É¢/ÅUP­TÛºÌr\x04½»ßüW\x8cXMø³û\x89ÖQ¨wTµ¿|g \x12P×ë«[:\x99Pc\x11?î7ÒË­W³úZ;i\x1e¹,6Dl\x0e\\S.?©\x80\x0f·\x1d\x8e;¢d×yP\x04\x07ta»\x0cÔç2\x01Üü^\x82ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04À\x04$\x90\x9ax-ÒÐ\x9f¢\x94\x0dæ#N:Ô\x07o\x17\x98¶\x89Ëÿ!\x92 k~mÒ\x09VÙ\x0b¶µH^\x01½M\x97fþ\x14\x02ó6\x02É\x02¶ ã2Iü\x09²ÁB\x05s\x96;â\x9a©z\x01×ScHq³¢':\x89t\x0c2°<PÚB¨£\x80\x1d#\x9f/Ú\x8b}Zfg\x00º\x0e Ë¿És0üÄ­%\x905V\x8dkeyep\x8bçêr\x11ãÎ\x02e\x94\x11:ËÇ5\x0fp\x11yûZ\x02&2D8ÉQÂB\x97ÃU\x16nÁ«\x0e\x9brÜÁ¾\x8e\x06\x01fºÁà#\x18\x8cÓr^K\x0d)WF»¦\x02àÆ_ý\x86_\x1bæa\x1c\x18\x00)Ä\x0c\x8cw\x97\x85vÅ3\x0bYf\x09"hÕ5rÜz\x91ó¢'¹²ô\x82\x98mkW¹ø©"\x15y\x8dáÁê\x97<\x94BBÃZx5¹\x07\x08ÇÅ0W\x1a1»c\x1b¨_ý\x94fÝÊ5\x8c¹¥U¥Y,À\x80´Ã\x84¥{¶\x97\x0cÃ\x17\x98yðX\x14\x09¦Ç>\x12\x8caF{\x83¡&ú¸I\x0fÅ\x842é^0ê°iá<]ç\x09ÎE\x9cc\x1bÌK\x99\x92<\x0bY÷\x0bz6\x01\\Öj;d¡\x99Ð¢\x17\x83á¹BtS_3\x82\x0dc`\x05l\x02]\x08\x1eí+\x82\x05\x14\x1bä\x01\x98ó\x1a:£D6¿rÃ\x9a`EÉ\x005eK\x07Ñ\x9a\x999ö³\x0dxt0Á$h+{\x08 F«¡j@H`½å®\x11\x11a\x13ë\x170#³ð\x07P\x1cKÈºü;\x8d($8\x00\x04ª¢¿ÓD®\x96G\x98\x190Ä\x1f\x1b¯ëj±CaN\x01d)¼&\x8d©$£Ë¡\x9a4X\x00ô\x9a½\x9cáG\x82:q/¡\x09²"qcØ¬@%\x19Vë\x80ðÑÂ\x13K¨Î4N!úÁÚ<!m\x8cX£|\x8aÔ\x17\x8bP³5\x09\x90·iÌ²¦8D\x04÷5§ F½ìÃ«¤OÑ,a:¨¨#\x82tµæ^\x07\x93Èü\x96;N(.\x17Ô\x7f¶&\x9d\x0eBI5\x96ZCÕwc¶\x03\x94ÛiÏ\x01\x8bÃ\x96\x7fobjw\x12»¼Ã&\x8cR\x7fäZ\x19\x1f°/@ ´\x9eðeø\x08Ïc\x97\x8f]w \x0dâ\x1c\x13Ù\x8aÑA)_\x97Æh\x1cXÙÖ\x19-\x97\x9e÷Üw/7hUÈ|*FSô\x9cfø$H\x11Ú\x09Ü;\x96×Ð¯FÔ\x1ct\x14\x03Z\x96§ºqº\x9e`L¢ô\x09J\x8bd-ñlMì\x88¥\x06{\x9a\x04Ìs¼\x90åS@Q8\x92¿\x96\x96ó\x14\x85[g¢°*¼\x97\x10\x86@hhw¢qºÀ\x07¼¹*à{\x97ßF@¼L)¢\x08u\x1b ~5,£tXbZ³U¹\x96Nµ4\x82XÇªÞ¥\x9a"k)ú\x86\x00øcË\x92\x95\x96»Õ©\x1bH\x07ð×\x91Ä\x9b£iÛ\x9eµ8Q8\x89!\x14\x82´4xs\x0bÌtþEKt%if÷\x84\x01d¸\x92á_\x96\x9a!¿å\x14=\x99Ç¿2xÝ\x18­\x89\x06\x8a\x005vÞê\x9cû²$Ë\x02VN\x89\x8d\x8a[5¸bÍáR]Ü'm:ô\x8bÕ\x97\x06;û`\x0fë;\x0d¢\x83oå¸Ûe[6wd%¢a:å§ª\x17\x90M+\x8d Ð\x8e¾du\x18\x87\x7fÛ\x84I»\x00Ï\x92|\x99#4\x19î\x84´F\x82`GuO-¦}»Y[e·+\x17<Ë`áHW±\x1e«H`\x15ÙKoë#N\x9c\x13\\\x93\x82à\x9c\x8b\x85\x1a;G2Ï±\x85G\x1d1p\x9f\x91\x88\x96× ¨\\\x19\x93ghH\x13\x88*´\x022Q´±WÄÊ\x07xQ¨¸ûv\x94:I\x05×I[Þ¼\x09AÖ¬7©¶\x12\x9b\x08m»Å\x93Ön\x1fG\x8b5\x13\x02=ip÷9MÊB\x13<´\x1c~\x81½J\x99/\x09Á\x95Ùk\x7fÁ7\x13-»Ã\x8e[°Í\x80\x05O\x87¾z[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:12:25,623 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:12:25] "[33mGET /scan HTTP/1.1[0m" 404 -
+2025-09-07 19:12:47,319 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:12:47] "GET /api/health HTTP/1.1" 200 -
+2025-09-07 19:14:31,195 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 19:14:31,195 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 19:14:31,198 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 19:14:32,027 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 19:14:32,031 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-07 19:14:53,160 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:14:53] "GET /api/scanner/status HTTP/1.1" 200 -
+2025-09-07 19:15:30,677 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:30] code 400, message Bad request version ('\\4A!\x96fZ#PùM"9u´B¹\x12\x93ÌÔ\x02{\x01\x96\xadh\x84\x7f#ÃHQôAáû\x88;J')
+2025-09-07 19:15:30,678 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:30] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03y\x9dóï°ª\x8eÒNãÓþJ[f$ÝcÊÝDh[9~c@\x05\x1f,½2 ÚB\x1a´Õ=\x18Úaß>©\x9fÊ\x14B\x8doQ»\x17ÑÒ×`n¾÷¼x\x03p\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ºº\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x003\x04ï\x04í\x9a\x9a\x00\x01\x00\x11ì\x04ÀE·ªi[Âä\x899Çwc³\x81¼@s\x86\x14'/¨c\x96\x80[B\x12×Bº@eBTj\x11i¢dÃ\x08Â¸3m\x82MßãEÉis|f\x8dWàÄÃ§·J&F\x84\x96"\x91µÄ÷\x84/ \x88\x7f²¡Ë,,'\x9e\x1b\x89Þ»\x01Ü\x11È\x85\\4A!\x96fZ#PùM"9u´B¹\x12\x93ÌÔ\x02{\x01\x96­h\x84\x7f#ÃHQôAáû\x88;J[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:15:30,681 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:30] code 400, message Bad request version ('\x83:·\x14\x96¯«\x96â¨AÇ')
+2025-09-07 19:15:30,681 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:30] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03sÉ%ÉG¿û·o\x17BN:Æ `\x02ý(\x03ÚQ\x03\x9f:Có&\x0e\x12\x05  \x83:·\x14\x96¯«\x96â¨AÇ[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:15:31,412 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:31] code 400, message Bad request version ('æÓ\x04\x80)Rã¨YÙa\x15¢\x99$^à\x00b\x93a')
+2025-09-07 19:15:31,413 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:31] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03>\x86qþø·ðn\x03Á\x8e\\\x98I8Íaä\x03/ülåZ#¶F\x92\x82\x81"u 9¾\x0bTª\x8a=\x99ª#`E¬°ì_\x82\x9d«A¾\x8f\x1bk:\x89u¶\x82±Á\x8b\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s::\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04À\x8a*\x81\x87\x12\x1a\x87R\x08¸å\x9e\x1aÔ\x00hæ \x143§#*Íç\x02 9Ô1¨+\x9d9È½ÕÚÇ\x1a3¤>V\x04\x8dIºMá~¦l\x95\x15b\x12\x12à_\x8e\x11k,¡ZË±"&\x12ÅVs\x16Õ\x02GýJ\x9d°\x09\x10Gg\x9akj\x88ÿ\x1ak\x81Ð§\x95\x15^\x83DI\x03\x87J5é\x0dÊj\x86\x03Å¦Dt¥hÒ\x16@ã\x82\x9aÈv?\x16U\x06©¯a<\x96*æ<\x8fº\x98\x1e \x7f#\x82\x1dî,.8Ä[\x97i)\x8e¸\x9dY\x15\x80ïã^à\x94\x1b\x90\x15\x8b\x8eçpèrQy\x07KÞ\x82$­\x14§:äf\x03UÍ®\x0cE_ #=¼^5h/?\x0b®áÉ\x98¾\x06]ü\x96\x96ÕlY\x84Ä\x96Ë|\x9bü²\x01Ê×\x0c8â ,0T\x89Äoæ\x89«þE awÍ#\x14.\x11é\x01þh\x0cæÓ\x04\x80)Rã¨YÙa\x15¢\x99$^à\x00b\x93a[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:15:31,415 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:31] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+2025-09-07 19:15:31,415 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:31] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03]#Yyß\x1a¼ß\x16kõ¨Ç\x9dO\x9a[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:15:46,963 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:46] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00')
+2025-09-07 19:15:46,964 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:46] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x82Â3ð\x95Î¥\x06(X\x05jfû\x81Åd8÷\x7fÒT5?ê\x10k\x1b3*pp ·<lHno]ß&\x08\x07v3¼\x94lUÊ\x069ÝÈRµ\x99|ë!ct÷©\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:15:46,966 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:46] code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03«ÅqB¦â')
+2025-09-07 19:15:46,966 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:15:46] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03«ÅqB¦â[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:19:43,538 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:19:43] code 400, message Bad request version ('Ø\x82')
+2025-09-07 19:19:43,539 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:19:43] "[35m[1m\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03óÔè\x03¦/\x83B§q³»®¤a!wÎ\x0cw\x1a1=Jí~$tº0\x13ß i"#:\x1bfªÛy\x83µ\x07V¾ýE×x\x18h¾\x92\x0b¬Ç÷!\x90\x8feÞF\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Szz\x00\x00\x00-\x00\x02\x01\x01\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1DÍ\x00\x05\x00\x03\x02h2\x003\x04ï\x04íÊÊ\x00\x01\x00\x11ì\x04ÀÀB2n6W\x1cÉ_Üðz{\x93º Z¯þ\x91"~S¢\\b\x19Wã¢n¶WCYZÀ\x85\x12ª\x02\x18\x8d¡\x0fý¤ÈË6¬\x0c\x00qAÃ\x96×@\x87\x9eÂ[Üð-;¼\x8dErj\x0eP4}h\x07V\x85b:gÎgx^\x17¬\x0f\x98ÃMÌ\x13.Â\x83H4+zô\x16\x84u¬x\x04Å\x01H\x95Oþv­Ò§qDØ.¥!Ì1Ê\x8a(æ¬$±\x1c_Ã"âó\x04\x89à©]ÖÀÏ`"Cö<Oû\x1dú\x06t{¦CÀ)\x0d\x09W¡À\x1c¯\x16ÖZM lS\x81½x:\x04¥\x94?oH{ê\x02¬p¹\x0f<Õ0uúÈo«¸\x02ùUªébH¢\x8fk(\x1a_÷Ç±Õ\x81\x94°§\x18ä\x05vÔI\x82\x99À\x09£¸\x9e\x97\x9a1\x97\x12\x8bæº*\x93\x16XÒ~\x80Ú\x0e>L\x8a\x0bÇL\x9f¤X\x1fñ">Õ\\Ù!\x81Ï,\x18s(E\\¨\\ÂÜv\x82\x01¤\\*\x181s¯7¹Å\x85ù{²\x1b«\x93\x89\x0c\x90\x97£ÙÈdªüq6â\x87\x1d\x18\x90»U=´3UO0`\\È\x17êêÇ\x84²X|R\x98½\x18.Ò\x00\x18\x87Ù\x1f~C¦?¡U\x0e´\x8dVfÄç6\x8c\x94\x89%½xk¨\x1c\x01\x83\x0bCÎ\x15;ãH[Æ**ù\x140\x18Ñ\x87Í\x9an4É\x99öë_>x\x18½È£\x9fá\x9cðJ:¨\x16\x81\x95{³´tµ¯Â\x93\x97 ºX8\x9e\x9dåÆ\x0d#»º\x96Ãuê\x08\x02\x16\x04\x93L\x0bçdTá\x85\x080Àu \x0c6ÒÆ\x83\x96AµÑ\x9a>\x8c\x8cÃqÂ³^a8\x9dd\x95ä\x83¦åR/,sKõ\x16\x1f\x01¶´XG\x01\x92\x19¿2\x84:JÌC|E&ù°^§Ò\x1cZ\x16:òøJ{Õµ¾[@ôÉ\x1aÎ ²\x0cvËk\x11·[sqÀ\x04\x00\x8aÁ[\x84\x9b[ÃêÈ¦¨\x97Êé\x19\x1a\x97,È©\x85\x97a7qc\x98Ä9(áÂ©9yz\x04¨°Y[8\x94$\x1eð%cò3\x9d²\x186ÔÁ%µÒNÆ\x91\x82¯ÃÁ0r¯ì\\\x9d\x97â|]e\x9c}÷\x86V\x87\x17íÌy\x9e\x98¹{TaÙa\x18?±<^1¹¹øB8x¿ÿ\x15T¦ØÍÂ¸\x01\x96¬rµz\x1fZõ\x82\x1a§\x89\x9aQ¸Uq%·ÐÇ*\x014Æ\x86\x92é0<pÄ+ØìÍÛq2\x9f'\x89¢Ø\x87Â*B¡<\x88Õ$\x85¡K¡(ú)óÙ¯\x8cÃ:ò y@\x04\x15n¢¤.'#\x98*8_Àq3§ª2D$Ý\x9b)òü¬\\\x01\x85÷%\x00¨«y¡Às}©\x13\x07{\x0bç\x84 sT«\x04æ\x18q%<\x18Ö{pIci\x9c\x19\x82H±\x95ø:)ç4Êg\x9fP¶\\d0+ìa©±\x8b­\x1cØ\x82[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:19:43,543 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:19:43] code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00')
+2025-09-07 19:19:43,543 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:19:43] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x13+Lm-\x9eÖ³«ÛÎà\x1fSî\x08`Ø#\x95\x1ff·j\x9aÙ\x90\x12Ñ\x06c\x7f 4æÎÑ±«\x0b&\x1a\x95Ä\x8d\x1d\x82^\x88à:Aã\x07"Ö\x17wË\x1bwo5Ñ\x99\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00#\x00\x00\x00\x0b\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:25:14,709 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:25:14] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06JJ\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00')
+2025-09-07 19:25:14,710 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:25:14] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03«Îhß('¶¹\x0c\x1f+mÌ(\x177k\x7fnÞôx\\CP\x9aJÊ¯\x02\x8fo \x05)Blÿÿ÷Ó8G\x17¼Á\\)û¹)q~¬\x9f¹Äý\x8cä+Ó\x1f;\x92\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06JJ\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:25:14,713 [ERROR] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:25:14] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03©\x86')
+2025-09-07 19:25:14,713 [INFO] [werkzeug] 192.168.100.34 - - [07/Sep/2025 19:25:14] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03©\x86\x1d\x19\x8eÞQz÷\x86ûvûç²µ¿Õr\x896f[0m" HTTPStatus.BAD_REQUEST -
+2025-09-07 19:46:26,462 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:46:26] "GET /api/health HTTP/1.1" 200 -
+2025-09-07 19:48:09,796 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:09] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:48:10,036 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:10] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-07 19:48:12,283 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:12] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-07 19:48:13,633 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:13] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-07 19:48:14,639 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:14] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-07 19:48:32,364 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:32] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:48:32,582 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:48:32] "[31m[1mPOST /api/scanner/capture HTTP/1.1[0m" 400 -
+2025-09-07 19:49:09,458 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-07 19:49:09,460 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-07 19:49:09,462 [INFO] [werkzeug]  * Restarting with stat
+2025-09-07 19:49:10,393 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-07 19:49:10,403 [INFO] [werkzeug]  * Debugger PIN: 518-195-949
+2025-09-07 19:49:12,616 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:12] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:14,512 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:19,568 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 19:49:19,574 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:29,451 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:31,076 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:35,922 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 540
+2025-09-07 19:49:35,927 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:37,828 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:37] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:39,763 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:40,273 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 19:49:40,276 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:40] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:44,458 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:46,598 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:47,686 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 528
+2025-09-07 19:49:47,689 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:50,405 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:55,131 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 19:49:55,134 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:56,458 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:56] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:49:58,380 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:49:58,871 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 19:49:58,875 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:49:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:01,813 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:50:02,317 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 19:50:02,324 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:04,328 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:04] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:06,005 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:50:10,934 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 19:50:10,938 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:12,546 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:12] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:14,071 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:50:19,007 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 19:50:19,014 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:20,456 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:50:22,260 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:50:22,754 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 19:50:22,757 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:50:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:51:33,899 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:51:33] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-07 19:52:41,715 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:52:41] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:52:44,988 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:52:49,893 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 19:52:49,896 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:52:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:52:51,851 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:52:51] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:52:53,389 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:52:53,899 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 19:52:53,904 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:52:53] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:52:56,877 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:01,833 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 19:53:01,838 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:03,216 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:03] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:04,715 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:05,203 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 19:53:05,206 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:05] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:08,171 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:09,235 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 19:53:09,242 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:10,660 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:10] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:13,311 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:18,010 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 19:53:18,013 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:22,088 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:22] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:23,620 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:28,400 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 19:53:28,404 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:29,797 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:31,333 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:36,344 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 19:53:36,349 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:36] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:37,483 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:37] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:38,919 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:43,773 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 19:53:43,776 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:45,506 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:45] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 19:53:47,228 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 19:53:52,082 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 19:53:52,086 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 19:53:52] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:06:54,404 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:06:54] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:06:56,865 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:02,228 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 531
+2025-09-07 20:07:02,234 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:04,020 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:04] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:05,562 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:10,438 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 20:07:10,454 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:10] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:11,613 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:11] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:13,438 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:13,910 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 531
+2025-09-07 20:07:13,914 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:13] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:17,183 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:17,712 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 533
+2025-09-07 20:07:17,717 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:17] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:19,485 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:19] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:25,920 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:31,242 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 532
+2025-09-07 20:07:31,248 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:33,046 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:33] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:34,622 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:35,112 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:07:35,119 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:38,670 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:43,607 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:07:43,613 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:45,195 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:45] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:46,909 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:47,332 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 531
+2025-09-07 20:07:47,339 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:52,838 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:07:57,996 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 530
+2025-09-07 20:07:58,002 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:07:59,674 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:07:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:08:01,448 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:08:06,640 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:08:06,650 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:08:06] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:18:47,525 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:18:47] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:18:49,736 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:18:54,829 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 20:18:54,834 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:18:54] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:18:56,089 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:18:56] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:18:57,754 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:02,653 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 20:19:02,659 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:03,972 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:03] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:05,815 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:06,901 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 532
+2025-09-07 20:19:06,906 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:06] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:14,701 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:14,987 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 524
+2025-09-07 20:19:15,002 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:15] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:15,879 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:15] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:17,465 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:22,392 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:19:22,399 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:24,450 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:24] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:26,146 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:31,310 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 540
+2025-09-07 20:19:31,315 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:31] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:32,517 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:32] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:34,811 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:39,675 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 532
+2025-09-07 20:19:39,680 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:39] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:40,889 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:40] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:42,701 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:47,685 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 539
+2025-09-07 20:19:47,693 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:48,999 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:48] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:50,586 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:51,095 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 20:19:51,102 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:51] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:19:54,160 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:19:59,035 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 20:19:59,041 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:19:59] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:31,929 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:31] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:34,343 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:40:39,175 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 20:40:39,181 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:39] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:40,799 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:40] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:42,352 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:40:43,443 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:40:43,450 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:43] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:46,212 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:40:46,753 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 20:40:46,760 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:48,108 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:48] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:50,194 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:40:50,687 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:40:50,693 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:50] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:40:53,384 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:40:58,510 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 20:40:58,517 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:40:58] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:00,146 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:00] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:01,849 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:41:07,058 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 20:41:07,065 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:08,572 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:08] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:10,743 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:41:15,670 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:41:15,675 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:15] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:17,076 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:17] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:18,655 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:41:19,173 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 20:41:19,179 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:19] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:22,263 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:41:22,844 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 20:41:22,848 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:24,703 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:24] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:41:26,382 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:41:26,931 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 20:41:26,936 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:41:26] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:54:46,922 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:54:46] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:54:49,279 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:54:54,562 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 530
+2025-09-07 20:54:54,568 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:54:54] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:54:56,075 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:54:56] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:54:57,624 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:02,964 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 536
+2025-09-07 20:55:02,971 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:02] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:05,174 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:05] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:06,804 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:07,864 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 540
+2025-09-07 20:55:07,869 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:10,681 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:15,828 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:55:15,836 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:15] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:17,132 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:17] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:19,764 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:20,199 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 537
+2025-09-07 20:55:20,203 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:20] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:25,302 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:25] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:26,972 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:27,451 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 20:55:27,456 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:27] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:30,866 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:35,952 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 539
+2025-09-07 20:55:35,957 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:35] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:37,412 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:37] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:38,972 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:39,508 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 535
+2025-09-07 20:55:39,512 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:39] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:44,500 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:44] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:46,316 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:51,309 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 534
+2025-09-07 20:55:51,313 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:51] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:52,872 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:52] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 20:55:54,727 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 20:55:55,229 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 538
+2025-09-07 20:55:55,235 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 20:55:55] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:29,253 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:29] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:31,046 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:00:33,281 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:00:33,287 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:34,552 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:34] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:36,083 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:00:37,113 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:00:37,119 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:40,379 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:00:41,513 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:00:41,518 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:42,802 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:42] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:44,573 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:00:46,588 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:00:46,597 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:46] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:00:49,490 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:00:50,278 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:00:50,281 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:00:50] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:03,602 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:03] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:05,983 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:01:07,111 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:01:07,116 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:07] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:15,309 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:01:16,287 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:01:16,293 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:16] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:18,187 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:18] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:19,748 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:01:20,512 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:01:20,517 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:20] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:23,837 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:01:24,539 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:01:24,545 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:24] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:26,011 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:26] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:01:27,802 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:01:33,046 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:01:33,054 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:01:33] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:28,990 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:28] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:30,941 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:32,393 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:32,399 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:32] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:35,363 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:37,281 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:37,286 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:37] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:38,560 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:38] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:40,043 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:41,153 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:41,159 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:41] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:44,185 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:45,166 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:45,170 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:45] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:46,705 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:46] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:48,346 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:49,104 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:49,107 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:49] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:52,605 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:06:57,874 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:06:57,878 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:57] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:06:59,118 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:06:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:00,856 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:07:01,806 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:07:01,811 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:04,457 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:07:09,793 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:07:09,801 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:09] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:11,727 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:11] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:17,944 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:07:18,593 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:07:18,598 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:20,690 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:20] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:07:22,232 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:07:22,957 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:07:22,961 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:07:22] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:40:59,605 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:40:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:02,536 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:08,737 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:08,745 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:08] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:11,043 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:11] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:13,066 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:18,975 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:18,981 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:18] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:24,298 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:24] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:26,511 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:28,058 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:28,064 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:28] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:30,925 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:30] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:37,831 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:38,653 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:38,659 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:38] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:40,427 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:40] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:46,951 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:47,590 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:47,595 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:47] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:49,952 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:49] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:56,650 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:41:57,442 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:41:57,448 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:57] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:41:59,021 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:41:59] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:00,565 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:42:01,565 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:42:01,571 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:01] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:06,381 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:06] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:08,109 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:42:13,556 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:42:13,561 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:13] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:17,024 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:17] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:19,897 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:42:20,607 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:42:20,612 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:20] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:23,507 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:23] "OPTIONS /api/scanner/capture HTTP/1.1" 200 -
+2025-09-07 21:42:25,378 [DEBUG] [urllib3.connectionpool] Starting new HTTPS connection (1): be2-production.up.railway.app:443
+2025-09-07 21:42:26,103 [DEBUG] [urllib3.connectionpool] https://be2-production.up.railway.app:443 "POST /api/core/process-fingerprint/ HTTP/1.1" 200 105
+2025-09-07 21:42:26,108 [INFO] [werkzeug] 127.0.0.1 - - [07/Sep/2025 21:42:26] "POST /api/scanner/capture HTTP/1.1" 200 -
+2025-09-08 18:27:30,503 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-08 18:27:30,503 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-08 18:27:30,506 [INFO] [werkzeug]  * Restarting with stat
+2025-09-08 18:27:31,373 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-08 18:27:31,381 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
+2025-09-08 18:36:00,289 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.34:5000
+2025-09-08 18:36:00,289 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-09-08 18:36:00,291 [INFO] [werkzeug]  * Restarting with stat
+2025-09-08 18:36:01,063 [WARNING] [werkzeug]  * Debugger is active!
+2025-09-08 18:36:01,069 [INFO] [werkzeug]  * Debugger PIN: 126-371-561
